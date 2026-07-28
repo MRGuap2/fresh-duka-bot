@@ -1,0 +1,242 @@
+intent,category,question,answer
+greeting,General,Hi,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Hello,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Habari,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Mambo vipi,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Niaje,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Good morning,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Hey there,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,Sasa,Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,"Hello, is anyone there?",Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+greeting,General,"Hi, poa?",Hi there! Welcome to Duka Fresh 👋 How can I help you today?
+goodbye,General,Bye,You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,"Thanks, bye",You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,"Asante, kwaheri",You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,Ok thanks,You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,"Alright, later",You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,"Sawa, asante sana",You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,"That's all, goodbye",You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,Ok bye bye,You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,Thanks for the help,You're welcome! Karibu tena — feel free to message us anytime. 😊
+goodbye,General,"Nimeshukuru, kwaheri",You're welcome! Karibu tena — feel free to message us anytime. 😊
+delivery_time,Delivery,How long does delivery take?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,Utaleta lini order yangu?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,When will my parcel arrive?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,Delivery inachukua muda gani?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,How many days for delivery to Kisumu?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,Utafika lini na order?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,Is delivery same day?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,Ninapata order lini nikiorder leo?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,How fast is your delivery within Nairobi?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_time,Delivery,Order itafika lini kwa Rongai?,"Within Nairobi, delivery usually takes 1-2 days via boda. Outside Nairobi, it takes 2-4 days depending on the courier (e.g. Wells Fargo, G4S)."
+delivery_cost,Delivery,How much is delivery?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Delivery ni bei gani?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,What's the shipping fee to Mombasa?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Delivery charges ni ngapi?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Is delivery free?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Unatoza delivery ngapi kwa CBD?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,How much extra for delivery outside Nairobi?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Delivery fee ni how much?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Do you charge for delivery within town?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+delivery_cost,Delivery,Bei ya kutuma order Thika ni ngapi?,"Delivery within Nairobi CBD costs Ksh 150, other Nairobi areas Ksh 200-300. Upcountry deliveries via courier range from Ksh 300-600 depending on location."
+mpesa_payment,Payment,What's your till number?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Naeza lipa na M-Pesa?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,How do I pay via M-Pesa?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Send me the paybill number,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Till number ni gani?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Can I pay on delivery?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Naomba number ya kutuma pesa,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Do you accept M-Pesa only?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,How do I send payment for my order?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+mpesa_payment,Payment,Paybill na account number ni gani?,"Yes, we accept M-Pesa! Our Till Number is 123456 (Duka Fresh Shop). You can also pay cash on delivery within Nairobi."
+payment_confirmation,Payment,"I have sent the money, have you received it?",Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,"Nimetuma pesa, umepokea?",Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,Umeconfirm payment yangu?,Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,"I've paid, please confirm",Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,Nimelipa kupitia mpesa umeona?,Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,Payment yangu imeenda sawa?,Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,Can you confirm you received my Mpesa?,Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,"Nimesend pesa saa hii, angalia",Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,Confirm payment please,Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+payment_confirmation,Payment,Umepokea pesa ya order yangu?,Let us confirm on our end — please share the M-Pesa transaction message/code so we can verify quickly and process your order.
+order_status,Orders,Where is my order?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Order yangu iko wapi?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Has my order been shipped?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Umetuma order yangu?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,What's the status of my order?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Order yangu ipo stage gani?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Is my parcel on the way?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Umeshtuma bidhaa zangu?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Can you track my order for me?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+order_status,Orders,Order iko na rider gani?,Let us check for you — please share your order number or the phone number used to place the order so we can track its current status.
+cancel_order,Orders,I want to cancel my order,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,Nataka cancel order yangu,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,Can I cancel this order?,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,Please cancel my purchase,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,"Sitaki tena hii order, cancel","No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,How do I cancel an order I made?,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,Cancel order number 245,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,"Nimebadili mawazo, cancel order","No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,Is it possible to cancel after paying?,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+cancel_order,Orders,Naomba ni-cancel order,"No problem — if your order hasn't been dispatched yet, we can cancel it and refund via M-Pesa. Please share your order number to proceed."
+wrong_item,Returns,I received the wrong item,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,Nimepata kitu tofauti na nilichoorder,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,This is not what I ordered,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,The size is wrong,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,Umenitumia size mbaya,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,Wrong color sent,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,Nilikuwa nimeorder kitu kingine,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,The product doesn't match the photo,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,Item niliyopokea si sahihi,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+wrong_item,Returns,I got a damaged item,"Sorry about that! Please send us a photo of the item you received along with your order number, and we'll arrange a replacement or refund."
+return_policy,Returns,What is your return policy?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Naeza return bidhaa?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Can I return an item if I don't like it?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,How many days do I have to return something?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Ninaeza rudisha item baada ya siku ngapi?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Do you accept returns?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,What if the item doesn't fit?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Return policy yenu ni gani?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Can I exchange for a different size?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+return_policy,Returns,Naeza change size ya item?,"You can return or exchange an item within 3 days of delivery, as long as it's unused and in original packaging. Just message us with your order number."
+refund_status,Returns,When will I get my refund?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Refund yangu itafika lini?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Has my refund been processed?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Umenirudishia pesa?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,I'm still waiting for my refund,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Refund inachukua muda gani?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Where is my refund money?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Umeprocess refund yangu?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,How long does a refund take?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+refund_status,Returns,Pesa ya refund itaenda lini kwa M-Pesa?,"Refunds are processed within 24-48 hours back to the M-Pesa number used for payment. If it's been longer, please share your order number so we can check."
+product_availability,Products,Do you have this in stock?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Bidhaa hii bado ipo?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Is this available in size 40?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Mko na hii design kwa size gani?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Do you have more colors?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Kuna stock ya hii item?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Is the red one still available?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Mnayo hii kwa size medium?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Can I get this in a different size?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+product_availability,Products,Hii bidhaa bado inapatikana?,Let us check current stock for you — please share the product name or picture and the size/color you want.
+opening_hours,General,What time are you open?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Mnafungua saa ngapi?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Are you open on Sundays?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,What are your working hours?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Mko open Jumapili?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Do you work on public holidays?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,What time do you close?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Mko open saa ngapi mpaka saa ngapi?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Is the shop open today?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+opening_hours,General,Time za kazi ni gani?,"We're open Monday-Saturday, 8am-7pm, and Sundays 10am-4pm. We're closed on major public holidays."
+discount_bulk,Promotions,Do you have discounts?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Kuna discount ukibuy vitu vingi?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Any offers this week?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Mko na promotion yoyote?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Can I get a discount for bulk order?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Nikinunua vitu vitatu nafanya deal gani?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Do you do wholesale prices?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Any ongoing sale?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Is there a discount code?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+discount_bulk,Promotions,Bei inashuka nikichukua zaidi ya moja?,Yes! Orders of 3 items or more get a 10% discount. Follow our WhatsApp status for weekly promo updates too.
+contact_human,General,Can I talk to a real person?,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,Naeza ongea na mtu?,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,"This bot isn't helping, I need an agent","Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,Please connect me to someone,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,Naomba nizungumze na mtu wa kweli,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,Is there a human I can chat with?,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,I need to speak to customer care directly,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,Nipe number ya kuongea na mtu,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,Can someone call me back?,"Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+contact_human,General,"Naomba msaada wa mtu, sio bot","Of course! You can reach our customer care team directly on 0712 345 678 (call or WhatsApp), available 8am-7pm daily."
+location_directions,General,Where is your shop located?,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Duka lenu liko wapi?,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Can I visit the physical shop?,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Naeza kuja duka moja kwa moja?,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Send me your location please,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Mko karibu na wapi?,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Do you have a physical store or online only?,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+location_directions,General,Naomba pin ya location yenu,"We're located in Nairobi CBD, along Moi Avenue, 2nd floor Duka Fresh House. Message us for exact directions or a Google Maps pin."
+wholesale_reseller,Products,Do you sell wholesale?,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,Naeza pata bei ya wholesale?,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,I want to buy in bulk to resell,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,Mnauza kwa bei ya jumla?,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,Do you supply shops or only individuals?,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,Nataka kununua mengi kwa bei nafuu niuze,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,Can I become a stockist for your products?,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+wholesale_reseller,Products,Bei ya jumla ni ngapi ukichukua zaidi ya 20?,"Yes, we supply wholesale for resellers and shopkeepers. Message us the quantity you need and we'll send you wholesale pricing."
+price_negotiation,Products,Can you reduce the price a bit?,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+price_negotiation,Products,Bei ya mwisho ni ngapi?,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+price_negotiation,Products,Punguza kidogo bei,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+price_negotiation,Products,Is that your final price?,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+price_negotiation,Products,Naomba discount kidogo,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+price_negotiation,Products,Can we negotiate the price?,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+price_negotiation,Products,Hakuna low price kidogo?,"Our prices are already quite fair, but for orders of 3+ items we do offer a discount. What quantity are you looking at?"
+receipt_request,Payments,Can I get a receipt for my purchase?,Of course — we send an e-receipt via WhatsApp once payment is confirmed. Let us know if you need it for business/accounting purposes.
+receipt_request,Payments,Naomba receipt ya order yangu,Of course — we send an e-receipt via WhatsApp once payment is confirmed. Let us know if you need it for business/accounting purposes.
+receipt_request,Payments,Do you issue invoices?,Of course — we send an e-receipt via WhatsApp once payment is confirmed. Let us know if you need it for business/accounting purposes.
+receipt_request,Payments,I need proof of purchase,Of course — we send an e-receipt via WhatsApp once payment is confirmed. Let us know if you need it for business/accounting purposes.
+receipt_request,Payments,Nataka invoice kwa order,Of course — we send an e-receipt via WhatsApp once payment is confirmed. Let us know if you need it for business/accounting purposes.
+receipt_request,Payments,Can you email me a receipt?,Of course — we send an e-receipt via WhatsApp once payment is confirmed. Let us know if you need it for business/accounting purposes.
+installment_payment,Payments,Can I pay in installments?,We currently don't offer installment payments — full payment is required upfront via M-Pesa or on delivery within Nairobi.
+installment_payment,Payments,Naeza lipa pole pole?,We currently don't offer installment payments — full payment is required upfront via M-Pesa or on delivery within Nairobi.
+installment_payment,Payments,Do you have a layby option?,We currently don't offer installment payments — full payment is required upfront via M-Pesa or on delivery within Nairobi.
+installment_payment,Payments,Naeza lipa nusu leo na nusu next week?,We currently don't offer installment payments — full payment is required upfront via M-Pesa or on delivery within Nairobi.
+installment_payment,Payments,Is there a payment plan?,We currently don't offer installment payments — full payment is required upfront via M-Pesa or on delivery within Nairobi.
+installment_payment,Payments,Naomba nilipe kidogo kidogo,We currently don't offer installment payments — full payment is required upfront via M-Pesa or on delivery within Nairobi.
+gift_wrapping,Products,Can you gift wrap my order?,Yes! Just mention it's a gift when ordering and we'll wrap it nicely at no extra cost.
+gift_wrapping,Products,Naomba m-wrap kama gift,Yes! Just mention it's a gift when ordering and we'll wrap it nicely at no extra cost.
+gift_wrapping,Products,Is gift wrapping available?,Yes! Just mention it's a gift when ordering and we'll wrap it nicely at no extra cost.
+gift_wrapping,Products,"This is a birthday gift, can you pack it nicely?",Yes! Just mention it's a gift when ordering and we'll wrap it nicely at no extra cost.
+gift_wrapping,Products,Do you offer gift packaging?,Yes! Just mention it's a gift when ordering and we'll wrap it nicely at no extra cost.
+restock_notification,Products,When will this be back in stock?,We restock popular items every 1-2 weeks. Message us the item name and we'll notify you as soon as it's back.
+restock_notification,Products,Mtapata stock tena lini?,We restock popular items every 1-2 weeks. Message us the item name and we'll notify you as soon as it's back.
+restock_notification,Products,Please notify me when available again,We restock popular items every 1-2 weeks. Message us the item name and we'll notify you as soon as it's back.
+restock_notification,Products,Item hii itapatikana lini?,We restock popular items every 1-2 weeks. Message us the item name and we'll notify you as soon as it's back.
+restock_notification,Products,Can you tell me when it's restocked?,We restock popular items every 1-2 weeks. Message us the item name and we'll notify you as soon as it's back.
+restock_notification,Products,Mkipata stock nijulishe tafadhali,We restock popular items every 1-2 weeks. Message us the item name and we'll notify you as soon as it's back.
+damaged_in_transit,Returns,My item arrived broken,We're sorry to hear that! Please send a photo of the damaged item and your order number — we'll replace it or refund you right away.
+damaged_in_transit,Returns,Item imefika ikiwa imeharibika,We're sorry to hear that! Please send a photo of the damaged item and your order number — we'll replace it or refund you right away.
+damaged_in_transit,Returns,The package was damaged during delivery,We're sorry to hear that! Please send a photo of the damaged item and your order number — we'll replace it or refund you right away.
+damaged_in_transit,Returns,"It arrived broken, what do I do?",We're sorry to hear that! Please send a photo of the damaged item and your order number — we'll replace it or refund you right away.
+damaged_in_transit,Returns,Bidhaa imekuja ikiwa mbovu,We're sorry to hear that! Please send a photo of the damaged item and your order number — we'll replace it or refund you right away.
+social_media_catalog,General,Where can I see your full catalog?,"You can browse our full catalog on our Instagram and TikTok pages @dukafresh, or ask us here and we'll send you photos directly."
+social_media_catalog,General,Mko na Instagram au TikTok?,"You can browse our full catalog on our Instagram and TikTok pages @dukafresh, or ask us here and we'll send you photos directly."
+social_media_catalog,General,Send me your product catalog,"You can browse our full catalog on our Instagram and TikTok pages @dukafresh, or ask us here and we'll send you photos directly."
+social_media_catalog,General,Naomba muniangushie catalog,"You can browse our full catalog on our Instagram and TikTok pages @dukafresh, or ask us here and we'll send you photos directly."
+social_media_catalog,General,Do you have a Facebook page?,"You can browse our full catalog on our Instagram and TikTok pages @dukafresh, or ask us here and we'll send you photos directly."
+social_media_catalog,General,Where can I follow you online?,"You can browse our full catalog on our Instagram and TikTok pages @dukafresh, or ask us here and we'll send you photos directly."
+complaint_escalation,General,I want to file a complaint,"We're sorry for any inconvenience. Please describe the issue and your order number here, and our team lead will personally follow up within a day."
+complaint_escalation,General,Nataka kulalamika kuhusu huduma,"We're sorry for any inconvenience. Please describe the issue and your order number here, and our team lead will personally follow up within a day."
+complaint_escalation,General,How do I raise a complaint?,"We're sorry for any inconvenience. Please describe the issue and your order number here, and our team lead will personally follow up within a day."
+complaint_escalation,General,This service was very poor,"We're sorry for any inconvenience. Please describe the issue and your order number here, and our team lead will personally follow up within a day."
+complaint_escalation,General,Naomba kuongea na manager kuhusu tatizo,"We're sorry for any inconvenience. Please describe the issue and your order number here, and our team lead will personally follow up within a day."
+complaint_escalation,General,I'm not happy with how this was handled,"We're sorry for any inconvenience. Please describe the issue and your order number here, and our team lead will personally follow up within a day."
+legitimacy_scam_concern,General,Is this shop legit?,"Yes, we're a registered small business that's been operating since 2021. You can pay via M-Pesa till (safer than sending to a personal number) or cash on delivery."
+legitimacy_scam_concern,General,Are you a genuine seller?,"Yes, we're a registered small business that's been operating since 2021. You can pay via M-Pesa till (safer than sending to a personal number) or cash on delivery."
+legitimacy_scam_concern,General,Mko registered kihalali?,"Yes, we're a registered small business that's been operating since 2021. You can pay via M-Pesa till (safer than sending to a personal number) or cash on delivery."
+legitimacy_scam_concern,General,How do I know this isn't a scam?,"Yes, we're a registered small business that's been operating since 2021. You can pay via M-Pesa till (safer than sending to a personal number) or cash on delivery."
+legitimacy_scam_concern,General,Do you have reviews from other customers?,"Yes, we're a registered small business that's been operating since 2021. You can pay via M-Pesa till (safer than sending to a personal number) or cash on delivery."
+legitimacy_scam_concern,General,Ni kweli hii ni duka halisi?,"Yes, we're a registered small business that's been operating since 2021. You can pay via M-Pesa till (safer than sending to a personal number) or cash on delivery."
+product_care_instructions,Products,How do I take care of this item?,Care instructions vary by product — we'll include a care label or send you specific washing/handling tips with your order.
+product_care_instructions,Products,Naosha hii item aje?,Care instructions vary by product — we'll include a care label or send you specific washing/handling tips with your order.
+product_care_instructions,Products,Can it be machine washed?,Care instructions vary by product — we'll include a care label or send you specific washing/handling tips with your order.
+product_care_instructions,Products,Do I need to hand wash this?,Care instructions vary by product — we'll include a care label or send you specific washing/handling tips with your order.
+product_care_instructions,Products,Utunzaji wa hii bidhaa ni aje?,Care instructions vary by product — we'll include a care label or send you specific washing/handling tips with your order.
+minimum_order,Orders,Is there a minimum order amount?,"No minimum order — you can buy just one item if you like, though delivery fees apply per order regardless of size."
+minimum_order,Orders,Kuna minimum order?,"No minimum order — you can buy just one item if you like, though delivery fees apply per order regardless of size."
+minimum_order,Orders,Can I order just one item?,"No minimum order — you can buy just one item if you like, though delivery fees apply per order regardless of size."
+minimum_order,Orders,Do I have to buy a certain quantity?,"No minimum order — you can buy just one item if you like, though delivery fees apply per order regardless of size."
+minimum_order,Orders,Naeza order kitu kimoja tu?,"No minimum order — you can buy just one item if you like, though delivery fees apply per order regardless of size."
+combine_orders,Orders,Can I combine two orders into one delivery?,"Yes, just let us know both order numbers before dispatch and we'll combine them into a single delivery to save on shipping."
+combine_orders,Orders,Naeza unganisha order mbili ziende pamoja?,"Yes, just let us know both order numbers before dispatch and we'll combine them into a single delivery to save on shipping."
+combine_orders,Orders,"I made two separate orders, can they be delivered together?","Yes, just let us know both order numbers before dispatch and we'll combine them into a single delivery to save on shipping."
+combine_orders,Orders,Can you merge my orders to save on delivery?,"Yes, just let us know both order numbers before dispatch and we'll combine them into a single delivery to save on shipping."
+courier_tracking_number,Delivery,Can you give me a tracking number?,We'll share your courier's tracking number (e.g. G4S or Wells Fargo) via WhatsApp as soon as your order is dispatched.
+courier_tracking_number,Delivery,Naomba tracking number ya order yangu,We'll share your courier's tracking number (e.g. G4S or Wells Fargo) via WhatsApp as soon as your order is dispatched.
+courier_tracking_number,Delivery,How do I track my parcel with the courier?,We'll share your courier's tracking number (e.g. G4S or Wells Fargo) via WhatsApp as soon as your order is dispatched.
+courier_tracking_number,Delivery,Is there a tracking code for my delivery?,We'll share your courier's tracking number (e.g. G4S or Wells Fargo) via WhatsApp as soon as your order is dispatched.
+international_shipping,Delivery,Do you ship outside Kenya?,At the moment we only deliver within Kenya. We're working on international shipping for the future — stay tuned!
+international_shipping,Delivery,Can you deliver to Uganda?,At the moment we only deliver within Kenya. We're working on international shipping for the future — stay tuned!
+international_shipping,Delivery,Mnatuma nje ya Kenya?,At the moment we only deliver within Kenya. We're working on international shipping for the future — stay tuned!
+international_shipping,Delivery,Do you ship internationally?,At the moment we only deliver within Kenya. We're working on international shipping for the future — stay tuned!
