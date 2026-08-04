@@ -29,11 +29,15 @@ def home():
 def chat():
     data = request.get_json(silent=True) or {}
     user_message = (data.get("message") or "").strip()
+    # Optional: the customer's previous message in this conversation, sent by
+    # the front-end so the bot can handle short follow-ups like "and how much
+    # for two?" that only make sense with the prior message for context.
+    previous_message = (data.get("previous_message") or "").strip() or None
 
     if not user_message:
         return jsonify({"error": "Empty message"}), 400
 
-    answer, matched_question, score, intent = bot.get_response(user_message)
+    answer, matched_question, score, intent = bot.get_response(user_message, previous_message)
 
     return jsonify(
         {
@@ -54,3 +58,4 @@ if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     # debug=False and host 0.0.0.0 so it also works fine once deployed
     app.run(host="0.0.0.0", port=port, debug=False)
+
