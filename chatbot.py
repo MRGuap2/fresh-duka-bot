@@ -16,6 +16,35 @@ from sklearn.metrics.pairwise import cosine_similarity
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATASET_PATH = os.path.join(BASE_DIR, "customer_support_dataset.csv")
 
+# Common English filler words, plus common Swahili/Sheng filler words that show up
+# across many intents (greetings, connectors, politeness words). Filtering these out
+# stops the vectorizer from matching messages on shared sentence structure
+# ("What's your ___?", "Naeza pata ___?") instead of the actual topic word.
+ENGLISH_STOP_WORDS = [
+    "a", "an", "the", "is", "are", "am", "was", "were", "be", "been", "being",
+    "i", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them",
+    "my", "your", "his", "its", "our", "their", "this", "that", "these", "those",
+    "what's", "whats", "what", "how", "do", "does", "did", "can", "could", "will",
+    "would", "should", "to", "of", "in", "on", "at", "for", "with", "and", "or",
+    "please", "just", "so", "if", "have", "has", "had", "get", "got",
+]
+
+SWAHILI_SHENG_STOP_WORDS = [
+    "naeza", "naomba", "nataka", "nako", "wewe", "mimi", "sisi", "yako", "yangu",
+    "yenu", "kwa", "na", "ni", "hii", "hiyo", "hizo", "je", "basi",
+    "tafadhali", "asante",
+    "samahani", "kuuliza", "kupata", "kuwa", "gani", "lini", "ngapi",
+    "bado", "tu", "kidogo", "sana", "msee", "boss", "excuse",
+]
+# Note: greeting words like "mambo", "vipi", "sasa", "habari", "poa", "niaje" are
+# deliberately NOT stop-worded — for several short training questions (e.g. "Mambo
+# vipi", "Habari", "Sasa") these words are the entire content of the message, so
+# filtering them out would leave nothing for the vectorizer to match on. Likewise
+# "pata" and "wapi" are kept since they carry real meaning in "iko wapi" (where is
+# it) style questions used across order/location intents.
+
+STOP_WORDS = ENGLISH_STOP_WORDS + SWAHILI_SHENG_STOP_WORDS
+
 
 def load_dataset(path=DATASET_PATH):
     """
@@ -53,7 +82,7 @@ class SupportChatbot:
         # guessing (important for the "test and improve" step).
         self.threshold = threshold
 
-        self.vectorizer = TfidfVectorizer(lowercase=True, stop_words=None)
+        self.vectorizer = TfidfVectorizer(lowercase=True, stop_words=STOP_WORDS)
         self.question_vectors = self.vectorizer.fit_transform(self.questions)
 
     def get_response(self, user_message):
@@ -92,3 +121,4 @@ class SupportChatbot:
                 break
             answer, matched_q, score, intent = self.get_response(user_input)
             print(f"Bot: {answer}")
+
