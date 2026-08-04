@@ -85,11 +85,47 @@ class SupportChatbot:
         self.vectorizer = TfidfVectorizer(lowercase=True, stop_words=STOP_WORDS)
         self.question_vectors = self.vectorizer.fit_transform(self.questions)
 
-    def get_response(self, user_message):
+    # Short, referential words that signal "this message depends on what was
+    # just said" rather than being a complete question on its own — e.g.
+    # "And how much for two?", "What about the blue one?", "Same as before".
+    FOLLOWUP_SIGNAL_WORDS = {
+        "that", "it", "one", "same", "also", "too", "another", "again",
+        "those", "this", "then", "and", "what about", "how about",
+    }
+
+    def _looks_like_followup(self, message):
+        """
+        Heuristic: a message is treated as a likely follow-up if it's short
+        (few words, once stop-words are stripped) or leans heavily on
+        referential words that only make sense with prior context.
+        """
+        words = [w for w in message.lower().replace("?", "").split()]
+        meaningful_words = [w for w in words if w not in STOP_WORDS]
+        is_short = len(meaningful_words) <= 3
+        has_referential_word = any(w in self.FOLLOWUP_SIGNAL_WORDS for w in words)
+        return is_short or has_referential_word
+
+    def get_response(self, user_message, previous_message=None):
         """
         Returns (answer, matched_question, similarity_score, intent)
+
+        previous_message: the customer's prior message in this conversation,
+        if any. When the current message looks like a follow-up (short, or
+        uses words like "that"/"one"/"same"), it is blended with the
+        previous message before matching, so the bot has enough context to
+        figure out what topic is actually being asked about. The current
+        message is always weighted more heavily than the previous one, so a
+        genuinely new question still overrides old context.
         """
-        user_vec = self.vectorizer.transform([user_message])
+        query_text = user_message
+
+        if previous_message and self._looks_like_followup(user_message):
+            # Repeat the current message so it outweighs the older one in the
+            # combined text, while still giving the vectorizer the previous
+            # message's topic words to latch onto.
+            query_text = f"{previous_message} {user_message} {user_message}"
+
+        user_vec = self.vectorizer.transform([query_text])
         similarities = cosine_similarity(user_vec, self.question_vectors)[0]
 
         best_idx = similarities.argmax()
